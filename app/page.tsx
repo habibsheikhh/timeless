@@ -7,7 +7,7 @@ export default function Home() {
         This is
       </div>
       <div className="pl-10 text-9xl font-extrabold text-green-300  animate-pulse">
-        Arhan
+        Hassan
       </div>
     </div>
   );
